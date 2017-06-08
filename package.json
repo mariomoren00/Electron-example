@@ -1,0 +1,25 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "Electron example ",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariomoren00/Electron-example.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Mario Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariomoren00/Electron-example/issues"
+  },
+  "homepage": "https://github.com/mariomoren00/Electron-example#readme",
+  "devDependencies": {
+    "electron": "^1.6.10"
+  }
+}
